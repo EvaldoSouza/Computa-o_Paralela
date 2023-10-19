@@ -1,0 +1,5 @@
+//Ler um arquivo txt 
+//Separar a serie de numeros entre os processos
+//Identificar quantos divisores exatos cada numero tem
+//retornar essa informação para o mestre
+//salvar os resultados em um arquivo, mantendo a ordem
